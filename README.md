@@ -65,7 +65,9 @@ To be able to store and analyze the survey data you're going to need a place to 
 
 ### Docker Container <a name="docker"></a>
 
--- PENDING
+Running a single instance (container) of MariaDB ColumnStore is incredibly simple using the MariaDB Community Server ColumnStore image. 
+
+Check out the instructions [here](https://hub.docker.com/r/mariadb/columnstore).
 
 ### MariaDB SkySQL <a name="skysql"></a>
 
