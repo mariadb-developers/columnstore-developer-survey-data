@@ -196,9 +196,17 @@ For more information on how you can do this please check out the following resou
 
 ## Support and Contribution <a name="support-contribution"></a>
 
-Thanks so much for taking a look at the TODO app! As this is a very simple example, there's plenty of potential for customization. Please feel free to submit PR's to the project to include your modifications!
+Please feel free to submit PR's, issues or requests to this project project directly.
 
-If you have any questions, comments, or would like to contribute to this or future projects like this please reach out to us directly at [developers@mariadb.com](mailto:developers@mariadb.com) or on [Twitter](https://twitter.com/mariadb).
+If you have any other questions, comments, or looking for more information on MariaDB please check out:
+
+* [MariaDB Developer Hub](https://mariadb.com/developers)
+* [MariaDB Community Slack](https://r.mariadb.com/join-community-slack)
+
+Or reach out to us diretly via:
+
+* [developers@mariadb.com](mailto:developers@mariadb.com)
+* [MariaDB Twitter](https://twitter.com/mariadb)
 
 ## License <a name="license"></a>
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=plastic)](https://opensource.org/licenses/MIT)
