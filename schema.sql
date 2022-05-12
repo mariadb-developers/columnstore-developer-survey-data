@@ -1,5 +1,6 @@
 DROP DATABASE IF EXISTS survey_data;
 CREATE DATABASE survey_data;
+USE survey_data;
 
 CREATE TABLE answers (
     respondent_id INT unsigned NOT NULL, 
